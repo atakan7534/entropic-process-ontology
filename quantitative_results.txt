@@ -1,0 +1,4 @@
+Observer Differences:
+O1-O2: 17.7549
+O1-O3: 20.5186
+O2-O3: 17.0111
