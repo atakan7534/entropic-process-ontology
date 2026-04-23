@@ -50,8 +50,8 @@ These simulate different perceptual or measurement systems.
 
 Running the simulation produces:
 
-- `observer_projections.png` → panels (A–D)
-- `entropy_curve.png` → panel (E)
+- observer_projections.png → panels (A–D)
+- entropy_curve.png → panel (E)
 
 These correspond to Figure 1 in the manuscript.
 
@@ -59,7 +59,7 @@ These correspond to Figure 1 in the manuscript.
 
 ## How to Run
 
-pip install -r requirements.txt
+pip install -r requirements.txt  
 python simulation.py
 
 ---
@@ -77,17 +77,17 @@ All results presented in the manuscript can be reproduced using the provided cod
 ## Repository Structure
 
 entropic-process-ontology/
-│
-├── simulation.py
-├── README.md
-├── requirements.txt
-│
-├── figures/
-│   ├── observer_projections.png
-│   ├── entropy_curve.png
-│
-└── supplementary/
-    └── supplementary_material.pdf
+
+- simulation.py  
+- README.md  
+- requirements.txt  
+
+- figures/  
+  - observer_projections.png  
+  - entropy_curve.png  
+
+- supplementary/  
+  - supplementary_material.pdf  
 
 ---
 
